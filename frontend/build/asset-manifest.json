@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.56727754.css",
+    "main.js": "/static/js/main.5c5b3f3c.js",
+    "static/media/e-tenderp.jpg": "/static/media/e-tenderp.197074c8537d9b716899.jpg",
+    "index.html": "/index.html",
+    "main.56727754.css.map": "/static/css/main.56727754.css.map",
+    "main.5c5b3f3c.js.map": "/static/js/main.5c5b3f3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56727754.css",
+    "static/js/main.5c5b3f3c.js"
+  ]
+}
